@@ -1,4 +1,4 @@
-package main;
+package main.java.com.gnrakn;
 
 public class RunnableExampleWithLambda {
 
