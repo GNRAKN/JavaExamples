@@ -1,4 +1,4 @@
-package com.gnrakn.java8;
+package main;
 
 public class RunnableExampleWithLambda {
 
